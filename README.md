@@ -16,6 +16,11 @@ This is a static website. On Cloudflare Pages, use:
 
 The website source code is licensed under the [MIT License](LICENSE).
 
-The KittenCode name, logo, branding, images, and written content are
-© 2026 eldex0. All rights reserved. These elements are not licensed under the
-MIT License and may not be reused without permission.
+The KittenCode written content and original human-authored branding elements
+are © 2026 eldex0. All rights reserved. These elements are not licensed under
+the MIT License.
+
+The KittenCode logo was generated using artificial intelligence. Its use and
+legal status remain subject to the terms of the generation service and to
+applicable law. No exclusive copyright claim is made here for the unmodified
+AI-generated logo.

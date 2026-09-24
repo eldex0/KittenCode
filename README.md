@@ -19,6 +19,3 @@ The website source code is licensed under the [MIT License](LICENSE).
 The KittenCode name, logo, branding, images, and written content are
 © 2026 eldex0. All rights reserved. These elements are not licensed under the
 MIT License and may not be reused without permission.
-
-KittenCode is not currently claimed as a registered trademark. The `®` symbol
-must not be used unless a valid trademark registration is obtained.
